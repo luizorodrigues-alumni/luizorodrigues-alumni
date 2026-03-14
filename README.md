@@ -13,8 +13,7 @@
 ## 👨‍💻 About Me
 
 ###
-👋 Hi! I'm **Luiz Otavio**, a software engineer passionate about building scalable web applications and interactive visualizations. I am always willing to learn and acquire knowledge. Currently, I'm expanding my backend expertise with **Java** and **AI Engineering**.  
-
+👋 Hi! I'm **Luiz Otavio**, a software engineer passionate about software, architecture, AI and connecting business to technology. I am always willing to learn and acquire knowledge.
 
 ###
 
